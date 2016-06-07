@@ -1,0 +1,16 @@
+source "https://rubygems.org"
+
+ruby '2.2.1'
+
+gem 'nokogiri', '~> 1.6.8.rc2'
+gem 'sinatra'
+
+gem 'shotgun'
+
+gem 'capybara'
+
+gem 'rspec'
+
+gem 'rspec-sinatra'
+
+# gem 'selenium-webdriver'
